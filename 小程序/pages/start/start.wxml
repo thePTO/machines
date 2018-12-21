@@ -1,0 +1,3 @@
+<!--start.wxml-->
+
+<button class="btn1" bindtap="validate">OneNet</button>
